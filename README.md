@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Keshav Garg</h1>
-<h3 align="center">A passionate computer science undergraduate enthusiast who is always interested in problem solving.</h3>
+<h3 align="center">A passionate computer science undergraduate  who is always interested in learning new technologies.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keshav2410garg&label=Profile%20views&color=0e75b6&style=flat" alt="keshav2410garg" /> </p>
 
