@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keshav2410garg&label=Profile%20views&color=0e75b6&style=flat" alt="keshav2410garg" /> </p>
 
-- 🌱 I’m currently learning **machine learning and computer vision**
+- 🌱 I’m currently learning **App Development**
 
 - 👯 I’m looking to collaborate on **the projects related to computer vision and Machine learning**
 
@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **data structures, machine learning**
 
-- 📫 How to reach me **keshav.garg98@yahoo.in**
+- 📫 How to reach me **keshav.garg2410@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
